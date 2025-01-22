@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @sbvanoosten
-- ⚡ I work at the University of Oxford's Centre for Migration Policy and Society (COMPAS), read more about my research here: https://www.compas.ox.ac.uk/people/sanne-van-oosten 
-- 👀 I’m interested in intergroup conflict, migration attitudes, politics, public opinion, voting behaviour, (conjoint) experiments, meta-analyses, and survey data.
-- 🌱 I’m currently researching discrimination against Muslim, Black and Roma minorities by employers, landlords, and childcare facilitators and the resultant impact on the well-being and identification of these minorities. This research is part of the Horizon 2020 project EqualStrength.
-- 📫 How to reach me: sanne.vanoosten@compas.ox.ac.uk, Twitter/X: @SBvanOosten, BlueSky: @SBvanOosten.bsky.social, LinkedIN: sanne-van-oosten-12023126
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I work at the Anthropology department of the University of Oxford: https://www.anthro.ox.ac.uk/people/dr-sanne-van-oosten 
+Dr Sanne van Oosten is a social scientist specialising in discrimination, voting and elections, focusing on the impact of anti-Muslim discrimination on politics and society.
 
-<!---
-sbvanoosten/sbvanoosten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+She completed her PhD in Political Science at the University of Amsterdam in October 2024. Her research focused on the political representation of women, minority, and Muslim politicians in European parliaments. She examined how anti-Muslim discrimination affects electoral success, particularly through voter preferences based on (shared) religion, migration background, and gender. Sanne conducted original data collection across France, Germany, and the Netherlands, with oversamples of minoritised groups.
+
+Sanne is a postdoctoral researcher at the University of Oxford, contributing to the EqualStrength consortium. This project explores cumulative and structural discrimination faced by Muslim, Roma, and Black minorities in Europe, with a focus on intersectional inequalities. Her work examines experiences of discrimination, shedding light on how prejudice accumulates across the life course.
+
+Sanne van Oosten has published in various journals, such as Electoral Studies, PS: Political Science & Politics, Public Integrity, and Representation. She has been interviewed as an expert for the BBC, NPR, The New York Times and the Dutch Volkskrant, NOS and Nieuwsuur. Additionally, she has provided strategic advice to political parties, the UK Home Office, Amnesty UK, and other organisations.
+
+Here is a link to Sanne van Oosten’s CV: https://docs.google.com/document/d/e/2PACX-1vSf4bCoOuhb-0M9kc0lWLj7X6AxAy56OQ7MiJIPM6aMt3pF4JGrdLupSQ-P69hgPkrKCNMgPfWD5vLP/pub 
