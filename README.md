@@ -6,4 +6,4 @@ Sanne is a postdoctoral researcher at the University of Oxford, contributing to 
 
 Sanne van Oosten has published in various journals, such as Electoral Studies, PS: Political Science & Politics, Public Integrity, and Representation. She has been interviewed as an expert for the BBC, NPR, The New York Times and the Dutch Volkskrant, NOS and Nieuwsuur. Additionally, she has provided strategic advice to political parties, the UK Home Office, Amnesty UK, and other organisations.
 
-Here is a link to Sanne van Oosten’s CV: https://docs.google.com/document/d/e/2PACX-1vSf4bCoOuhb-0M9kc0lWLj7X6AxAy56OQ7MiJIPM6aMt3pF4JGrdLupSQ-P69hgPkrKCNMgPfWD5vLP/pub 
+Here is a link to Sanne van Oosten’s employer profile with CV: https://www.compas.ox.ac.uk/people/sanne-van-oosten 
